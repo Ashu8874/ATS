@@ -93,5 +93,5 @@ The task is to design an Applicant Tracking System (ATS) that manages job postin
 
 ## Authors
 
-- [@nikhilmalakar](https://github.com/nikhilmalakar)
+- [@Ashutosh](https://github.com/Ashu8874)
 
